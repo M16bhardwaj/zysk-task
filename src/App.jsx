@@ -1,11 +1,12 @@
-import AnalyticsSection from "./Components/AnalyticsSection";
-import BlogSection from "./Components/BlogSection";
-import CTASection from "./Components/CTASection";
-import FeaturesSection from "./Components/FeaturesSection";
-import Footer from "./Components/Footer";
-import FreqAskQuestions from "./Components/FreqAskQuestions";
-import Header from "./Components/Header";
-import TestimonialSection from "./Components/TestimonialSection";
+import AnalyticsSection from "./components/AnalyticsSection";
+import BlogSection from "./components/BlogSection";
+import CTASection from "./components/CTASection";
+import FeaturesSection from "./components/FeaturesSection";
+// import Footer from "./Components/Footer";
+import Footer from "./components/Footer";
+import FreqAskQuestions from "./components/FreqAskQuestions";
+import Header from "./components/Header";
+import TestimonialSection from "./components/TestimonialSection";
 import { BrowserRouter as Router } from "react-router-dom";
 
 function App() {
